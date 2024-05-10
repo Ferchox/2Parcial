@@ -1,0 +1,16 @@
+img{
+    display:flex;
+    border-radius: 40px;
+    max-height: fit-content;
+    max-height: fit-content;
+    z-index: 0;
+}
+.botonRep{
+    display: flex;
+    justify-content: end;
+    padding-left: 280px;
+    height: 60px;
+    width: 60px;
+    z-index: 1;
+    margin-bottom: 0;
+}

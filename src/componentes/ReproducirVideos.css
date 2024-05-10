@@ -1,0 +1,8 @@
+.contenedor-reproductor
+{
+    background-color: #343d50;
+    
+    max-width: fit-content;
+    height: 450px;
+    border-radius: 40px;
+}

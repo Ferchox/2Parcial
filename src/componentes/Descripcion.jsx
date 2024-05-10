@@ -1,4 +1,5 @@
 import React from 'react'
+import "./Descripcion.css"
 
 export const Descripcion = () => {
   return (

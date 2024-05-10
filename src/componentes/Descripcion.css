@@ -1,0 +1,13 @@
+h1 {
+  padding-left: 30px;
+  display: flex;
+  font-size: 40px;
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+p{
+  padding-left: 30px;
+  display: flex;
+  font-size: 30px;
+  margin-top: 0;
+}
